@@ -1,5 +1,9 @@
 # Procedural Building Generation
 
+## Submission 1
+
+Due to time reasons, the current submission just includes a basic building tool that resembles the tutorial.
+
 ## Target Visual Style
 
 ### Option 1: Subnautica Bases
