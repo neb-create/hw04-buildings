@@ -5,17 +5,23 @@ The golem has a building on top of it that can be fully customized and infinitel
 
 ## Showcase
 
-![](img/c1.png)
-![](img/c2.png)
+Screenshot
 ![](img/c3.png)
-[inset video here]
+
+Demo Video 1
+
+https://github.com/user-attachments/assets/f3e3c42f-4b79-40f3-a774-dc6bee08437b
+
+Demo Video 2
+
+https://github.com/user-attachments/assets/eada97bc-975a-4140-844d-1a462161f83e
 
 ## Inspiration and Reference
 
 The design and the concept is based on the Walking Mausoleum from Elden Ring, A walking entity that roams around the world and will turn into a permanent landmark when defeated.
 
-![](ref/walk1.png)
-![](ref/walk2.png)
+![](ref/walk1.jpg)
+![](ref/walk2.jpg)
 
 ## User Control
 
@@ -60,8 +66,8 @@ A simple base for the golems body, fractured into smaller rocks using a voronoi 
 ![](img/f10.png)
 
 - Bell
-A procedurally modeled Bell is placed under the golems body, it will move based on a simple string physic simulation.
-![](img/f12.png) ![](img/f13.png)
+procedurally modeled Bell under the golems body, it is also animated based on a simple string simulation.
+![](img/f13.png)
 
 - Trees
 Placed at the side of the golem's body, based on a user defined count, created with L-Systems.
@@ -117,4 +123,4 @@ This was a really fun project! If given more time, here are the main details tha
 ## Contact
 Contact over discord is prefered for any questions!
 
-handle: @nebulirion 
+id: @nebulirion 
