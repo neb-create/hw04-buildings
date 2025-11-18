@@ -1,24 +1,120 @@
 # Procedural Building Generation
 
-## Full Submission
+For this project I used Houdini to create a procedural walking golem that can move around on a terrain.
+The golem has a building on top of it that can be fully customized and infinitely expanded by the user.
 
--> Still needs to write readme
+## Showcase
 
-### Improvement
+![](img/c1.png)
+![](img/c2.png)
+![](img/c3.png)
+[inset video here]
 
-Features that I still want to improve on:
- - Improve visuals on rocks to look more realistic
- - physics on plants: have them shake when golem steps
- - optimization
+## Inspiration and Reference
 
-## Submission 2
+The design and the concept is based on the Walking Mausoleum from Elden Ring, A walking entity that roams around the world and will turn into a permanent landmark when defeated.
+
+![](ref/walk1.png)
+![](ref/walk2.png)
+
+## User Control
+
+The user is able to control various aspects of the golem as shown below:
+
+![](img/gui0.png)
+
+## Implementation
+
+All the features, including the 3D assets, are fully created using Houdini.
+
+Screenshot of node network:
+
+![](img/gui1.png)
+
+## Breakdown
+
+The building on the golem is created by stacking multiple floors on top of eachother. each level has a basic polygon cylinder as its base shape, and then the following components are added on top:
+
+- Borders & Decoration
+Placed at the top edge and bottom edge of the level, with optional decoration shapes on top.
+![](img/f1.png)
+
+- Pillars & Decoration
+Placed on the side edges of the level, the decoration on top includeds a extremly simplified squab mesh.
+![](img/f3.png)
+
+- Procedurally placed assets
+Sampled from a preset of 3 different decoration models, all also modeled in houdini.
+![](img/f2.png)
+
+- Support sturctures
+Curved beams that connect to the floor below, only generated if the size difference is appropreate.
+![](img/f16.png)
+
+- Stacking
+At the end, all floors are stacked on top of eachother.
+![](img/f4.png)
+
+- Golem Body
+A simple base for the golems body, fractured into smaller rocks using a voronoi pattern.
+![](img/f10.png)
+
+- Bell
+A procedurally modeled Bell is placed under the golems body, it will move based on a simple string physic simulation.
+![](img/f12.png) ![](img/f13.png)
+
+- Trees
+Placed at the side of the golem's body, based on a user defined count, created with L-Systems.
+![](img/f11.png)
+
+- Golem Leg
+Created with the same voronoi pattern like the main body, leg count is based on user input.
+![](img/f6.png)
+
+- Skulls 
+Human skulls are scattered at the base on the golem's legs for decoration based on the in-game design. 
+![](img/f5.png)
+
+- Skeleton
+The legs are then rigged procedurally and deformed based on a procedurally generated skeleton.
+![](img/f7.png)
+![](img/f8.png)
+
+- IK Movement
+The skeleton can then move around a defined path on other geometry using Inverse Kinematics;
+![](img/f9.png)
+
+The golem will them match the pose of the skeleton and walk on the terrain.
+![](img/f14.png)
+
+- Particle System
+When the golem's leg steps on the ground, particles are spawned in the animation.
+![](img/f15.png)
+
+## Past Submission Content
+
+### Submission2:
 
 Created the basic shape of the structure. Added a fully functioning building generation tool with border, pillars, simple assets and support. there are toggles for border and pillar decorations and it also supports different sided polygons for every floor.
 
-![](s3.png)
+![](img/s3.png)
 
-![](s2.png)
+![](img/s2.png)
 
-## Submission 1
+### Submission 1
 
-Due to time reasons, the current submission just includes a basic building tool that resembles the tutorial.
+A very basic building tool based on Simon's tutorial (https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini)
+
+![](img/s0.png)
+
+## Future Improvement
+
+This was a really fun project! If given more time, here are the main details that I would still want to improve on:
+ - Improve visuals on rocks to look more realistic
+ - physics on plants: have them shake when golem steps
+ - optimization (current implementation runs slow!)
+
+## Contact
+Contact over discord is prefered for any questions!
+
+handle: @nebulirion 
