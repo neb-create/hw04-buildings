@@ -6,7 +6,7 @@ The golem has a building on top of it that can be fully customized and infinitel
 ## Showcase
 
 Screenshot
-![](img/c1.png)
+![](img/c3.png)
 
 Demo Video 1
 
@@ -123,4 +123,4 @@ This was a really fun project! If given more time, here are the main details tha
 ## Contact
 Contact over discord is prefered for any questions!
 
-handle: @nebulirion 
+id: @nebulirion 
