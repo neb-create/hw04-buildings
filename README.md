@@ -6,7 +6,9 @@ The golem has a building on top of it that can be fully customized and infinitel
 ## Showcase
 
 ![](img/c1.png)
-[Demo Video 1](https://private-user-images.githubusercontent.com/180119095/515971460-f3e3c42f-4b79-40f3-a774-dc6bee08437b.mp4)
+
+[Demo Video 1]([https://private-user-images.githubusercontent.com/180119095/515971460-f3e3c42f-4b79-40f3-a774-dc6bee08437b.mp4](https://private-user-images.githubusercontent.com/180119095/515971460-f3e3c42f-4b79-40f3-a774-dc6bee08437b.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1MDY1MDcsIm5iZiI6MTc2MzUwNjIwNywicGF0aCI6Ii8xODAxMTkwOTUvNTE1OTcxNDYwLWYzZTNjNDJmLTRiNzktNDBmMy1hNzc0LWRjNmJlZTA4NDM3Yi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExOFQyMjUwMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjZjNGVmOWFjMzhmMTI5MGE5MWY0M2VhMzE4YmExMzJiOTUwYjc3NThlZjNmZDE0OTk1MzRiY2JkMWNlYzgyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xUFbNA-Yu3PHzdmKjKJlCuPoaTKYPPAT5zsaRVOm_Cg))
+
 [Demo Video 2](https://private-user-images.githubusercontent.com/180119095/515972043-eada97bc-975a-4140-844d-1a462161f83e.mp4)
 
 ## Inspiration and Reference
