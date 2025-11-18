@@ -10,7 +10,7 @@ Screenshot
 
 Demo Video 1
 
-https://github.com/user-attachments/assets/eada97bc-975a-4140-844d-1a462161f83e
+https://github.com/user-attachments/assets/f3e3c42f-4b79-40f3-a774-dc6bee08437b
 
 Demo Video 2
 
