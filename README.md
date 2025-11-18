@@ -9,7 +9,8 @@ Screenshot
 ![](img/c1.png)
 
 Demo Video 1
-[Demo Video 1](https://github.com/user-attachments/assets/f3e3c42f-4b79-40f3-a774-dc6bee08437b)
+
+https://github.com/user-attachments/assets/eada97bc-975a-4140-844d-1a462161f83e
 
 Demo Video 2
 [Demo Video 2](https://github.com/user-attachments/assets/eada97bc-975a-4140-844d-1a462161f83e)
