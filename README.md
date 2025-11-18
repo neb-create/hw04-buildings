@@ -5,8 +5,9 @@ The golem has a building on top of it that can be fully customized and infinitel
 
 ## Showcase
 
+[Demo Video](https://private-user-images.githubusercontent.com/180119095/515971460-f3e3c42f-4b79-40f3-a774-dc6bee08437b.mp4)
+
 ![](img/c1.png)
-![](img/c2.png)
 ![](img/c3.png)
 [inset video here]
 
