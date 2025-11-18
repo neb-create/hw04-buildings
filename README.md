@@ -20,8 +20,8 @@ https://github.com/user-attachments/assets/eada97bc-975a-4140-844d-1a462161f83e
 
 The design and the concept is based on the Walking Mausoleum from Elden Ring, A walking entity that roams around the world and will turn into a permanent landmark when defeated.
 
-![](ref/walk1.png)
-![](ref/walk2.png)
+![](ref/walk1.jpg)
+![](ref/walk2.jpg)
 
 ## User Control
 
