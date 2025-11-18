@@ -2,7 +2,14 @@
 
 ## Submission 2
 
+
 Made the walking building thingy from elden ring. will update readme soon.
+
+!!! THESE PICTURES ARE NOT UP TO DATE
+
+download the new ver if you stumble up on this before i update readme
+
+trust me the new one is soooo good
 
 ![](s1.png)
 
