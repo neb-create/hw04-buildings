@@ -60,8 +60,8 @@ A simple base for the golems body, fractured into smaller rocks using a voronoi 
 ![](img/f10.png)
 
 - Bell
-A procedurally modeled Bell is placed under the golems body, it will move based on a simple string physic simulation.
-![](img/f12.png) ![](img/f13.png)
+procedurally modeled Bell under the golems body, it is also animated based on a simple string simulation.
+![](img/f13.png)
 
 - Trees
 Placed at the side of the golem's body, based on a user defined count, created with L-Systems.
